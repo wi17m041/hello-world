@@ -1,4 +1,5 @@
 <?php
   echo "Hello World!";
-  echo "PHP is so easy!";
+  header("Location: http://www.krone.at/");
+  exit();
 ?>
